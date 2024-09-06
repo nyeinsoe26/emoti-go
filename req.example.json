@@ -1,0 +1,16 @@
+{
+    "texts": [
+        "For something soaked in this much broth, this chicken sure taste dry",
+		"It's still raw.",
+		"This is pretty great",
+		"This isnt so good. It isnt bad but I've had better.",
+		"My god this is awesome"
+    ],
+    "sentiment_labels":[
+        "Extremely Positive",
+        "Positive",
+		"Mixed",
+		"Negative",
+        "Extrememly Negative"
+    ]
+}

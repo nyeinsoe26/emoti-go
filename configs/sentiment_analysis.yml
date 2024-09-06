@@ -1,0 +1,6 @@
+llms:
+  openai:
+    model: gpt-4o
+    api_key: ""
+
+use_llm: openai
